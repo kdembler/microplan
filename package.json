@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/microplan-xyz/microplan#readme",
   "devDependencies": {
-    "autopublish": "0.0.7",
+    "autopublish": "0.0.8",
     "standard": "^9.0.2"
   },
   "dependencies": {
